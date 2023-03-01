@@ -1,6 +1,6 @@
 # Repositório Teste Target
 
-Este repositório contém soluções para exercícios propostos. As soluções são implementadas em Python e estão divididas em vários arquivos.
+Este repositório contém soluções para exercícios propostos. As soluções são implementadas em Python e estão divididas em poucos arquivos.
 
 ## Tecnologias
 
@@ -32,7 +32,7 @@ Este módulo lê dados de um arquivo JSON e calcula o valor máximo, mínimo e m
 
 ### atividade4.py
 
-Este módulo calcula o faturamento mensal de uma distribuidora de energia elétrica por estado e exibe o total faturado, bem como o percentual de representação de cada estado.
+Este módulo calcula o faturamento por estado de uma distribuidora e exibe o total faturado, bem como o percentual de representação de cada estado.
 
 ### atividade5.py
 
@@ -40,10 +40,4 @@ Este módulo recebe um texto e o inverte.
 
 ### Arquivo dados.json
 
-O arquivo dados.json contém informações sobre o faturamento de uma empresa por dia. Cada entrada do arquivo representa um dia e contém as seguintes informações:
-
-- data: data no formato dd/mm/yyyy
-- valor: valor do faturamento no dia
-
-O arquivo é lido pelo código contido no arquivo atividade3.py.
-
+O arquivo dados.json contém informações sobre o faturamento, é lido pelo código contido no arquivo atividade3.py.
